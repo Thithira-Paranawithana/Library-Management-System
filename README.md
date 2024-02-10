@@ -2,9 +2,7 @@
 A console-based library management system demonstrating strong application of OOP principles.
 
 <p align="center">
-  <code>
     <img src="https://github.com/Thithira-Paranawithana/Library-Management-System/assets/153026117/c3b1304a-ab4b-4c6c-8b2d-e38b015070fe" alt="Library Management System Logo" width="200" height="200">
-  </code>
 </p>
 
 <p align="justify">Welcome to the Console-Based Library Management System repository! This C++ project demonstrates the principles of Object-Oriented Programming (OOP) and serves as a comprehensive solution for managing library operations through the console interface.</p>
