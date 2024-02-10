@@ -1,0 +1,14 @@
+
+Membership ID : STU001
+Name : NIMESH_WITHANA
+Age : 22
+E-mail : nimeshwithana1@gmail.com
+Contact no. : 754561237
+
+
+Membership ID : STU002
+Name : LAHIRU_VIRAJ
+Age : 23
+E-mail : lahiruviraj15@gmail.com
+Contact no. : 757558551
+

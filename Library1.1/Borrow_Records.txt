@@ -1,0 +1,14 @@
+
+Reference No. : 001
+Member ID : STU001
+Book ID : SIN457
+Book Title: GAMPERALIYA
+Borrow Date : 01/12/2022
+Due Date : 15/12/2022
+
+Reference No. : 002
+Member ID : FAC001
+Book ID : SH003
+Book Title: VIOLENT_VALLEY
+Borrow Date : 15/12/2022
+Due Date : 29/12/2022

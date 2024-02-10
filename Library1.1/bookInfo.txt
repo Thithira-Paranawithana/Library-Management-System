@@ -1,0 +1,21 @@
+
+Book Title : MOTHER
+No. of Copies : 6
+Book ID : MAX112
+Author : MAXIM_GORKI
+Rack no. : 2
+
+
+Book Title : GAMPERALIYA
+No. of Copies : 7
+Book ID : SIN457
+Author : MARTIN_WIKRAMASINGHE
+Rack no. : 1
+
+
+Book Title : VIOLENT_VALLEY
+No. of Copies : 2
+Book ID : SH003
+Author : ARTHER_CONAN_DOYLE
+Rack no. : 7
+
